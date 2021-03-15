@@ -1,0 +1,21 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_log
+	/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

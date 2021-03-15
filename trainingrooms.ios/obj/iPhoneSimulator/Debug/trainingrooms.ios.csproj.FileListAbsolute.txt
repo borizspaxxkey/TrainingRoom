@@ -1,0 +1,17 @@
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/bin/iPhoneSimulator/Debug/trainingrooms.ios.exe
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/bin/iPhoneSimulator/Debug/trainingrooms.ios.pdb
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/trainingrooms.ios.csprojAssemblyReference.cache
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/trainingrooms.ios.csproj.CoreCompileInputs.cache
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/trainingrooms.ios.csproj.CopyComplete
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/trainingrooms.ios.exe
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/trainingrooms.ios.pdb
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/bin/iPhoneSimulator/Debug/TrainingRoom.dll
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/bin/iPhoneSimulator/Debug/TrainingRoom.pdb
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/actool/_PartialAppManifest.items
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/coremlc/_PartialAppManifest.items
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/obj/iPhoneSimulator/Debug/device-builds/iphone 12 pro max-14.4/optimized/

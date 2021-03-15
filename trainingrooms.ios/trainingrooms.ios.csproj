@@ -120,6 +120,7 @@
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
     <InterfaceDefinition Include="Main.storyboard" />
+    <InterfaceDefinition Include="RoomDetailViewController.xib" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
@@ -133,6 +134,17 @@
     <Compile Include="ViewController.designer.cs">
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="RoomDetailViewController.cs" />
+    <Compile Include="RoomDetailViewController.designer.cs">
+      <DependentUpon>RoomDetailViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoomsDatasource.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TrainingRoom\TrainingRoom.csproj">
+      <Project>{9452D3CA-2D67-4F8D-953A-40DC8352EE90}</Project>
+      <Name>TrainingRoom</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

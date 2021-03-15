@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFP7ocHj5iFBT7o/BCe/lDhKM1gVdvSIMhsvY1tB63/0fZI0eMOukmsmG0MW/F8F9crj746WOuDxY48lZpW6WA==",
+  "success": true,
+  "projectFilePath": "/Users/josephcollins/Desktop/Charter Communictions/Repos/TrainingRoom/trainingrooms.ios/trainingrooms.ios.csproj",
+  "expectedPackageFiles": [
+    "/Users/josephcollins/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
